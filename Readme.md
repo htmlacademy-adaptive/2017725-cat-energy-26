@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Даня Мочалов](https://up.htmlacademy.ru/adaptive/26/user/2017725).
-* Наставник: [Магомед Кандаев].(https://htmlacademy.ru/profile/magomedkandaev)
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev)
 
 ---
 
